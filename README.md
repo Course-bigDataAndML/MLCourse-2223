@@ -33,7 +33,7 @@ University of Turin, held on June 12 - 22, 2023.
 - on the first day, open a terminal and clone this repository:
 
 ```
-git clone https://github.com/leggerf/MLCourse-2223.git
+git clone https://github.com/Course-bigDataAndML/MLCourse-2223.git
 ```
 - The Jupyter notebook documentation can be found [here](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) 
 
